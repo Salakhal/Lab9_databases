@@ -18,4 +18,7 @@ Voici la description des fichiers présents dans ce dépôt :
 * Serveur MySQL local
 * Bibliothèques Python : `mysql-connector-python`, `sqlalchemy`, `pymysql`, `click`
 
+## Capture d’écran :
+Voici un exemple de l'exécution du programme (screenshot) :
+
 

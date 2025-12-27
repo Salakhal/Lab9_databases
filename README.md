@@ -35,4 +35,18 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="817" height="697" alt="image" src="https://github.com/user-attachments/assets/73370301-cb08-4702-bb3c-d5f31d875d84" />
 
+---
 
+
+## 👤 Auteur
+
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S5
+
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+
+* **Module :** `BASE DE DONNEE `

@@ -7,7 +7,7 @@ import time
 # --- CONFIGURATION ---
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASS = "VotreMdp"  #  Remplace par ton mot de passe root MySQL
+DB_PASS = "1234" 
 TEST_DB_NAME = "universite_test"
 
 def run_command(command, description):

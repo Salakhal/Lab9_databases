@@ -21,4 +21,18 @@ Voici la description des fichiers présents dans ce dépôt :
 ## Capture d’écran :
 Voici un exemple de l'exécution du programme (screenshot) :
 
+<img width="901" height="1346" alt="image" src="https://github.com/user-attachments/assets/7363b6ab-ca39-41b2-be14-7b0e103a9709" />
+
+---
+
+<img width="1122" height="785" alt="image" src="https://github.com/user-attachments/assets/fe0e5fab-f5f6-46da-9326-5b81fbb7378f" />
+
+---
+
+<img width="823" height="753" alt="image" src="https://github.com/user-attachments/assets/53518e7a-2eba-455e-8d21-38a6cb999d4a" />
+
+---
+
+<img width="817" height="697" alt="image" src="https://github.com/user-attachments/assets/73370301-cb08-4702-bb3c-d5f31d875d84" />
+
 
